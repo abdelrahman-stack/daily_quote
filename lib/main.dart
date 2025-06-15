@@ -1,5 +1,5 @@
 import 'package:daily_quote/core/app_router.dart';
-import 'package:daily_quote/cubits/quote_cubit/quote_cubit.dart';
+import 'package:daily_quote/cubits/cubit/quote_cubit.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
