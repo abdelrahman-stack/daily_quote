@@ -1,6 +1,7 @@
 import 'package:bloc/bloc.dart';
 import 'package:daily_quote/models/quote_model.dart';
 import 'package:dio/dio.dart';
+import 'package:equatable/equatable.dart';
 
 part 'quote_state.dart';
 
